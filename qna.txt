@@ -1,0 +1,1 @@
+JSON:stringify(body) but worked with qs package. import qs from 'qs' && qs.stringify(body)
